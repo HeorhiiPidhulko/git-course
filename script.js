@@ -1,0 +1,1 @@
+document.getElementById("first").insertAdjacentHTML("afterend", "This is script");
